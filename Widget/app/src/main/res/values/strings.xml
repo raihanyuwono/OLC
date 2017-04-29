@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="dummy_string"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus nisi. Pellentesque condimentum, nulla non dictum tincidunt, tellus lorem semper erat, in varius odio purus nec ex. Vestibulum semper felis in velit imperdiet egestas. Phasellus porta quis lorem at euismod. Maecenas volutpat neque quis molestie consequat. Proin pharetra rhoncus est, id volutpat ipsum bibendum nec. Quisque eleifend orci dignissim vulputate varius.
+Praesent sit amet blandit dolor. Fusce elementum, massa quis lacinia feugiat, urna augue facilisis dui, sed tempor nisl ex sed neque. Pellentesque aliquam elit quis eros molestie, eget scelerisque metus dictum. Morbi in felis feugiat, egestas lorem eget, vehicula leo. Vestibulum non turpis in est pharetra fringilla.  </string>
+</resources>
